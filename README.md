@@ -1,10 +1,10 @@
 # Readme
-A note about Message Queue.
+A comparison between RPC and MQ.
 
-### Message Queue Task
-Representations
-Representation Processors
-Event Handlers
+### RPC vs MQ
+- RPC类似于串门子。
+- MQ类似于现在的快递系统。
 
 ### Credits
-- [Message Queue Task - Microsoft Learn](https://learn.microsoft.com/en-us/sql/integration-services/control-flow/message-queue-task)
+- [Remote procedure call - Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
+- [Message queue - Wikipedia](https://en.wikipedia.org/wiki/Message_queue)
